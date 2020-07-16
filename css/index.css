@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: auto;
+}
+table tr td {
+  border: 1px dashed #ddd;
+  width: 30px;
+  height: 30px;
+}
